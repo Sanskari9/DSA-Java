@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MergeSortLL",
+            "request": "launch",
+            "mainClass": "MergeSortLL",
+            "projectName": "LinkedList_6bca29cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsPalindrome",
+            "request": "launch",
+            "mainClass": "IsPalindrome",
+            "projectName": "LinkedList_6bca29cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLL",
+            "request": "launch",
+            "mainClass": "ReverseLL",
+            "projectName": "LinkedList_6bca29cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertNewNode",
+            "request": "launch",
+            "mainClass": "InsertNewNode",
+            "projectName": "LinkedList_6bca29cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakeInputFromUser",
+            "request": "launch",
+            "mainClass": "TakeInputFromUser",
+            "projectName": "LinkedList_6bca29cd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateLL",
+            "request": "launch",
+            "mainClass": "CreateLL",
+            "projectName": "LinkedList_6bca29cd"
+        }
+    ]
+}

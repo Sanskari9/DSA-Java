@@ -1,0 +1,1 @@
+ // front = (front +1)%data.length;

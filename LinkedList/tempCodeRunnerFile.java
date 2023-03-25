@@ -1,0 +1,1 @@
+public static boolean IsPalindrome(Node<Integer> head)
